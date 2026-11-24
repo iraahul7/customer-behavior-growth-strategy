@@ -1,0 +1,11 @@
+﻿customer_id,city,acquisition_channel,signup_date
+1,Delhi,Organic,2025-01-01
+2,Mumbai,Paid Search,2025-01-02
+3,Bengaluru,Social,2025-01-03
+4,Hyderabad,Referral,2025-01-04
+5,Pune,Organic,2025-01-05
+6,Delhi,Paid Search,2025-01-06
+7,Mumbai,Organic,2025-01-07
+8,Bengaluru,Referral,2025-01-08
+9,Delhi,Social,2025-01-09
+10,Pune,Paid Search,2025-01-10
